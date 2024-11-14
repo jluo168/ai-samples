@@ -14,5 +14,5 @@
  * limitations under the License.
  */
 
-rootProject.name = "Gemini Nano demo"
+rootProject.name = "Gemini Demo"
 include ':app'
